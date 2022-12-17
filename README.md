@@ -21,7 +21,8 @@ Steps which I followed: -
 
 
 
-![WhatsApp Image 2022-12-18 at 12 51 12 AM](https://user-images.githubusercontent.com/83137780/208263236-721d2733-770b-4261-a65b-466ddbbad39b.jpeg)
+![WhatsApp Image 2022-12-18 at 12 56 55 AM (1)](https://user-images.githubusercontent.com/83137780/208263261-985a1623-0d4c-489b-9111-04a805b6da75.jpeg)
+
 
 
 
