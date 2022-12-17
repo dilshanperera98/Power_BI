@@ -36,4 +36,20 @@ Steps which I followed: -
 
 ![WhatsApp Image 2022-12-18 at 12 56 55 AM (3)](https://user-images.githubusercontent.com/83137780/208263194-aef2c695-0b73-4fb7-b5af-05bfdae29146.jpeg)
 
+_________________________________________________________________________________________________________________________________________________________
+
+                                                             MySQL Workbench Interface 
+
+<img width="1440" alt="Screenshot 2022-12-17 at 13 00 05" src="https://user-images.githubusercontent.com/83137780/208263395-f3aebac2-8910-432f-8933-140c50ec032b.png">
+
+
+<img width="1440" alt="Screenshot 2022-12-17 at 12 59 48" src="https://user-images.githubusercontent.com/83137780/208263400-8eae7e94-f1be-46d8-8767-ffbce8a8d320.png">
+
+
+<img width="1440" alt="Screenshot 2022-12-17 at 13 00 24" src="https://user-images.githubusercontent.com/83137780/208263402-ea8efc0a-e8db-4d4e-9c79-f2e6033a9818.png">
+
+
+<img width="1440" alt="Screenshot 2022-12-17 at 13 35 09" src="https://user-images.githubusercontent.com/83137780/208263404-683bacfc-98df-44e6-9a3c-b4bc189888e9.png">
+
+
 
