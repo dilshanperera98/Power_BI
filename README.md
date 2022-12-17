@@ -1,5 +1,5 @@
 # Power_BI
-                                                                 Sales Insight DashBoard 
+                                                              Sales Insight DashBoard 
                                                                  
 This is a self-learned project done using Microsoft Power BI connected with MySQL workbench. In here Power BI dashboard for the sales was built by using dataset about sales of the company. By using this sales insights one can make data driven decisions which helps to increase the sales of the company. This kind of data visualization can be used as a solution for problems such as issues in tracking sales in dynamically growing market, issues with the insights of the business. 
 
@@ -22,5 +22,13 @@ Steps which I followed: -
 
 
 ![WhatsApp Image 2022-12-18 at 12 51 12 AM](https://user-images.githubusercontent.com/83137780/208263155-b5edcab8-2b31-446d-9914-8d49392fd02d.jpeg)
+
+
+
+![WhatsApp Image 2022-12-18 at 12 56 55 AM (2)](https://user-images.githubusercontent.com/83137780/208263187-7c7e9758-f7ec-4f71-9643-920b24b25a33.jpeg)
+
+
+
+![WhatsApp Image 2022-12-18 at 12 56 55 AM (3)](https://user-images.githubusercontent.com/83137780/208263194-aef2c695-0b73-4fb7-b5af-05bfdae29146.jpeg)
 
 
